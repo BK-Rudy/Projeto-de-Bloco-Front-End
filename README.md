@@ -77,12 +77,12 @@ Como usuária, eu gostaria que o site forneça algumas informações e dicas de 
 
 | ID | Descrição | Prioridade |
 |----|-----------|------------| 
-| NF-001 |	O sistema deverá ter uma interface responsiva.	| USABILIDADE |
-| NF-002 |  O sistema deverá possuir uma função de rolagem automática para determinado elemento selecionado pelo usuário.	| USABILIDADE |
-| NF-003 |  O sistema deverá se utilizar da API do Google Maps.	| USABILIDADE |
-| NF-004 |  O sistema não deverá apresentar problemas de lentidão.	| PERFORMANCE |
-| NF-005 |	O usuário poderá salvar seus dados de autenticação para próximos acessos.	| PERFORMANCE |
-| NF-006 |  O sistema deverá respeitar as boas práticas de design e possuir uma interface gráfica intuitiva.	| USABILIDADE |
-| NF-007 |  O sistema deverá apresentar uma tela para usuários não logados e usuários logados.	| SEGURANÇA |
-| NF-008 |  O sistema deverá possuir modo de autenticação por meio do Google e Facebook.	| SEGURANÇA |
-| NF-008 |  O sistema deverá ter boas práticas com base na Lei Geral de Proteção a Dados.	| SEGURANÇA |
+| NF-001 |	O sistema deverá ter uma interface responsiva.	| Usabilidade |
+| NF-002 |  O sistema deverá possuir uma função de rolagem automática para determinado elemento selecionado pelo usuário.	| Usabilidade |
+| NF-003 |  O sistema deverá se utilizar da API do Google Maps.	| Usabilidade |
+| NF-004 |  O sistema não deverá apresentar problemas de lentidão.	| Performance |
+| NF-005 |	O usuário poderá salvar seus dados de autenticação para próximos acessos.	| Performance |
+| NF-006 |  O sistema deverá respeitar as boas práticas de design e possuir uma interface gráfica intuitiva.	| Usabilidade |
+| NF-007 |  O sistema deverá apresentar uma tela para usuários não logados e usuários logados.	| Segurança |
+| NF-008 |  O sistema deverá possuir modo de autenticação por meio do Google e Facebook. | Segurança |
+| NF-008 |  O sistema deverá ter boas práticas com base na Lei Geral de Proteção a Dados.	| Segurança |
