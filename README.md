@@ -64,29 +64,25 @@ Como usuária, eu gostaria que o site forneça algumas informações e dicas de 
 
 | ID | Descrição | Prioridade |
 |----|-----------|------------|
-| RF-001 |	XXXXXXXXXXX	| Essencial |
-| RF-002 |	XXXXXXXXXXXXX	| Essencial |
-| RF-003 |	XXXXXXXXXXXXX	| Essencial |
-| RF-004 |	XXXXXXXXXXXXX	| Essencial |
-| RF-005 |	XXXXXXXXXXXXX	| Essencial |
-| RF-006 |	XXXXXXXXXXXXX	| Essencial |
-| RF-007 |	XXXXXXXXXXXXX	| Essencial |
-| RF-008 |  XXXXXXXXXXXXX	| Essencial |
-| RF-009 |  XXXXXXXXXXXXX	| Essencial |
-| RF-010 |  XXXXXXXXXXXXX	| Essencial |
-| RF-011 |  XXXXXXXXXXXXX	| Essencial |
-| RF-012 |  XXXXXXXXXXXXX	| Essencial |
+| RF-001 |	O sistema deverá ter uma tela com informações e dicas para encontros.	| Essencial |
+| RF-002 |	O sistema deverá possuir um método para cadastrar o usuário.	| Essencial |
+| RF-003 |	O sistema deverá ter uma caixa de pesquisa.	| Essencial |
+| RF-004 |	O sistema deverá possuir um sistema de localização.	| Essencial |
+| RF-005 |	O usuário poderá ser capaz de visualizar o seu histórico de pesquisas realizadas.	| Essencial |
+| RF-006 |	O usuário poderá ser capaz de classificar os locais que visitou.	| Essencial |
+| RF-007 |	O usuário poderá visualizar rotas entre locais selecionados.	| Essencial |
+| RF-008 |  O usuário poderá ser capaz de realizar comentários sobre os locais visitados.	| Essencial |
 
 * Requisitos Não funcionais
 
 | ID | Descrição | Prioridade |
 |----|-----------|------------| 
-| NF-001 |	XXXXXXXXXXXXX	| Essencial |
-| NF-002 |  XXXXXXXXXXXXX	| Essencial |
-| NF-003 |  XXXXXXXXXXXXX	| Essencial |
-| NF-004 |  XXXXXXXXXXXXX	| Essencial |
-| NF-005 |	XXXXXXXXXXXXX	| Essencial |
-| NF-006 |  XXXXXXXXXXXXX	| Essencial |
-| NF-007 |  XXXXXXXXXXXXX	| Essencial |
-| NF-008 |  XXXXXXXXXXXXX	| Essencial |
-| NF-008 |  XXXXXXXXXXXXX	| Essencial |
+| NF-001 |	O sistema deverá ter uma interface responsiva.	| USABILIDADE |
+| NF-002 |  O sistema deverá possuir uma função de rolagem automática para determinado elemento selecionado pelo usuário.	| USABILIDADE |
+| NF-003 |  O sistema deverá se utilizar da API do Google Maps.	| USABILIDADE |
+| NF-004 |  O sistema não deverá apresentar problemas de lentidão.	| PERFORMANCE |
+| NF-005 |	O usuário poderá salvar seus dados de autenticação para próximos acessos.	| PERFORMANCE |
+| NF-006 |  O sistema deverá respeitar as boas práticas de design e possuir uma interface gráfica intuitiva.	| USABILIDADE |
+| NF-007 |  O sistema deverá apresentar uma tela para usuários não logados e usuários logados.	| SEGURANÇA |
+| NF-008 |  O sistema deverá possuir modo de autenticação por meio do Google e Facebook.	| SEGURANÇA |
+| NF-008 |  O sistema deverá ter boas práticas com base na Lei Geral de Proteção a Dados.	| SEGURANÇA |
